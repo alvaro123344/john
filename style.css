@@ -1,0 +1,16 @@
+body { 
+    background-color: black;
+}
+p{
+    color: #f30909;
+}
+a {
+    color: chartreuse;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif; 
+    color: darkgray;
+}
+p {
+    font-size: larges;
+}
